@@ -18,11 +18,6 @@ npm install
 npm run start
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
 
 Set up environment variables. Create a .env file in the root of the project with the following:
 
